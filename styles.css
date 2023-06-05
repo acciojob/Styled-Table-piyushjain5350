@@ -1,1 +1,22 @@
 /* your code */
+*{
+	margin:0;
+	padding:0;
+}
+.table{
+	border:1px solid black;
+	border-radius:10px;
+	border-collapse:collapse;
+}
+.heading{
+	background-color:#1e5a8c;
+	color:white;
+}
+
+th{
+	width:50px;
+	padding:5px;
+}
+.name{
+	width:160px;
+}
